@@ -14,7 +14,7 @@ This project was developed to celebrate Natália's birthday with a website full 
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://luketta07.github.io/Anniversary-Site/
+   https://luketta07.github.io/Anniversary-Site/
 
    
 
@@ -34,4 +34,4 @@ Este projeto foi desenvolvido para celebrar o aniversário da Natália com um si
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://luketta07.github.io/Anniversary-Site/
+   https://luketta07.github.io/Anniversary-Site/
